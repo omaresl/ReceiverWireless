@@ -2,10 +2,11 @@
 //This is a automatic generated file
 //Please do not modify this file
 //If you touch this file your change will be overwritten during the next build
-//This file has been generated on 2019-01-28 14:49:32
+//This file has been generated on 2019-01-29 14:27:40
 
 #include "Arduino.h"
 #include "Arduino.h"
+#include "app_Receiver.h"
 
 void setup() ;
 void loop() ;
